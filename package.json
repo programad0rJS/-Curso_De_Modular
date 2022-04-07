@@ -1,0 +1,20 @@
+{
+  "name": "curso_de_modular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "piero": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "coke",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^5.0.1",
+    "debug": "^4.3.3",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1",
+    "uuid": "^8.3.2"
+  }
+}
